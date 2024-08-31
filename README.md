@@ -45,7 +45,9 @@ Once all dependencies are installed, you can start exploring and visualizing dat
 ```bash
 jupyter  notebook
 ```
+## Analyse Data
 Explore the provided examples and datasets to begin creating interactive visualizations. The main goal is to discover trends and generate suggestions for new LEGO sets inspired by popular Japanese anime.
+You can find the output Dashboard on my [Tableau Public](https://public.tableau.com/app/profile/marco.manduca/viz/LEGO-Anime), enjoy.
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 ## Contact
