@@ -5,7 +5,12 @@
 
 This project aims to create a data visualization tool that suggests the creation of LEGO sets inspired by Japanese anime stories and characters. The goal is to combine Big Data Analytics and Data Visualization to identify trends and creative ideas that can be used to design new themed LEGO sets.
 
-## Project Structure
+## Group Members
+- [Simone Caglio](https://github.com/SimoneFisico)
+- [Marco Manduca](https://github.com/MarcoManduca)
+- Corona Rosas Torres
+
+## Tech Spec
 -  **Language:** [Python 3.11.5](https://www.python.org/downloads/release/python-3115/)
 -  **Frameworks and Libraries:** This project uses several libraries for data analysis, visualization, and database management, such as `numpy`, `pandas`, `matplotlib`, `seaborn`, `pymongo`, and more. (See [requirements.txt](./requirements.txt) for the full list of dependencies.)
 
@@ -50,6 +55,3 @@ Explore the provided examples and datasets to begin creating interactive visuali
 You can find the output Dashboard on my [Tableau Public](https://public.tableau.com/app/profile/marco.manduca/viz/LEGO-Anime), enjoy.
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-## Contact
-For questions or suggestions, feel free to contact me at: marco.manduca95@gmail.com
-Thank you for your interest in the project!
